@@ -1,0 +1,27 @@
+.layout-container {
+    width: var(--narrow-width);
+}
+#title {
+    --s: 150px; /* control the size*/
+    --_l:#0000 calc(25% / 3),var(--secondary-clr-light) 0 25%,#0000 0;
+    --_g:conic-gradient(from 120deg at 50% 87.5%,var(--secondary-clr-light) 120deg,#0000 0);
+    background:
+        var(--_g),var(--_g) 0 calc(var(--s) / 2),
+        conic-gradient(from 180deg at 75%,var(--secondary-clr) 60deg,#0000 0),
+        conic-gradient(from 60deg at 75% 75%,var(--secondary-clr-light) 0 60deg,#0000 0),
+        linear-gradient(150deg,var(--_l)) 0 calc(var(--s) / 2),
+        conic-gradient(at 25% 25%,#0000 50%,var(--secondary-clr) 0 240deg,var(--secondary-clr-light) 0 300deg,var(--secondary-clr) 0),
+        linear-gradient(-150deg,var(--_l)) var(--secondary-clr-dark);
+    background-size: calc(0.866 * var(--s)) var(--s);
+    color: var(--bg-clr1);
+}
+#title h1 {
+    padding: 0;
+}
+#content .layout-container {
+    display: flex;
+    flex-direction: column;
+}
+#content h2, #content h3, #content h4 {
+    padding-top: 1em;
+}

@@ -1,0 +1,76 @@
+/* HERO */
+
+#hero, #cta {
+    --s: 80px;
+    --c1: var(--secondary-clr);
+    --c2: var(--secondary-clr-dark);
+    --c3: var(--secondary-clr-light);
+    
+    --_g: conic-gradient(at 50% 25%,#0000 75%,var(--secondary-clr) 0);
+    background:
+        var(--_g),var(--_g) var(--s) var(--s),
+        var(--_g) calc(2*var(--s)) calc(2*var(--s)),
+        var(--_g) calc(3*var(--s)) calc(3*var(--s)),
+        repeating-linear-gradient(135deg,var(--secondary-clr-dark) 0 12.5%,var(--secondary-clr-light) 0 25%);
+    background-size: calc(4*var(--s)) calc(4*var(--s));
+    color: var(--bg-clr1);
+    padding: 6em 0;
+}
+.hero-title {
+    font-size: var(--mega-size);
+    line-height: var(--mega-size);
+    font-weight: bold;
+}
+#hero .layout-container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 2em;
+}
+#hero .primary-button, #cta .primary-button {
+    font-size: var(--h2-size);
+    line-height: var(--h2-size);
+    margin-top: 0;
+}
+.section-row-element i {
+    margin-right: .5em;
+    color: var(--secondary-clr);
+}
+#what .secondary-button {
+    margin-top: 1em;
+}
+#what .section-row-element {
+    align-items: start;
+}
+#what .section-row-element:first-of-type .secondary-button {
+    margin-top: 2em;
+}
+#who img {
+    max-width: 350px;
+    display: block;
+    margin: 0 auto;
+    border-radius: 100%;
+    border: 20px solid var(--bg-clr1);
+}
+#cta .section-row {
+    align-items: center;
+}
+#cta .primary-button {
+    margin: 0 auto;
+}
+
+@media (max-width:600px) {
+    #who .section-row, #what .section-row, #how .section-row {
+        display: flex;
+        flex-direction: column;
+    }
+    #cta .section-row {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 1em;
+    }
+    #cta .primary-button {
+        margin: 0;
+    }
+}

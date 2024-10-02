@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="apple-touch-icon" sizes="180x180" href="/media/imgs/fav/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/media/imgs/fav/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/media/imgs/fav/favicon-16x16.png">
+    <link rel="manifest" href="/media/imgs/fav/site.webmanifest">
+
+    <link rel="stylesheet" href="/css/root.css">
+    <link rel="stylesheet" href="/css/base.css">
+    {{block "styles" .}}{{end}}
+
+    <script src="https://kit.fontawesome.com/9ab7bfa7fc.js" crossorigin="anonymous"></script>
+    {{block "scripts" .}}{{end}}
+
+    <title>{{.Title}}</title>
+</head>
+<body>
+    <nav class="layout-element">
+        <div class="nav-container layout-container">
+            <div class="nav-logo">
+                <a href="/">
+                    <img src="/media/imgs/base/vertical.png" alt="logo">
+                </a>
+            </div>
+            <div class="nav-links">
+                <a href="/blog" class="nav-link">Blog</a>
+                <a href="/o-mne" class="nav-link">O mně</a>
+                <a href="/rozcestnik" class="nav-link">Rozcestník</a>
+                <a href="https://calendly.com/aagerslova/konzultace" class="primary-button">Zamluvit konzultaci</a>
+            </div>
+        </div>
+    </nav>
+    <main>
+        {{block "main" .}}{{end}}
+    </main>
+    <footer class="layout-element">
+        <div class="footer-container layout-container">
+            <div class="footer-logo">
+                <a href="/">
+                    <img src="/media/imgs/base/vertical-bw.png" alt="logo">
+                </a>
+                <p>Pomáhám zjistit, co tě baví, co ti jde, a snažím se najít způsoby jak to využít. Základem mojí práce je naslouchání. Ještě to nevíš, ale řešení je ve tvých rukách.</p>
+                <a href="https://calendly.com/aagerslova/konzultace" class="primary-button">Zamluvit konzultaci</a>
+            </div>
+            <div class="footer-columns">
+                <div class="footer-column">
+                    <h4 class="footer-column-title">Navigace</h4>
+                    <div class="footer-column-links">
+                        <a href="/" class="footer-column-link">Domů</a>
+                        <a href="/blog" class="footer-column-link">Blog</a>
+                        <a href="/o-mne" class="footer-column-link">O mně</a>
+                        <a href="/rozcestnik" class="footer-column-link">Rozcestník</a>
+                    </div>
+                </div>
+                <div class="footer-column">
+                    <h4 class="footer-column-title">Informace</h4>
+                    <div class="footer-column-links">
+                        <a href="/info/co-je-karierove-poradenstvi" class="footer-column-link">Co je karierové poradenství?</a>
+                        <a href="/info/pro-rodice" class="footer-column-link">Pro rodiče</a>
+                        <a href="/info/pro-ucitele" class="footer-column-link">Pro učitele</a>
+                    </div>
+                </div>
+                <div class="footer-column">
+                    <h4 class="footer-column-title">Kontakt</h4>
+                    <div class="footer-column-links">
+                        <p><strong>Bc. Alena Geršlová</strong></p>
+                        <p>
+                            SŠIPF Brno, Čichnova 982/23, 624 00 Brno<br>
+                            Budova E, kabinet 201
+                        </p>
+                        <a href="mailto:alena.gerslova@cichnova.cz" class="footer-column-link"><i class="fa fa-envelope"></i>alena.gerslova@cichnova.cz</a>
+                        <a href="tel:541123148" class="footer-column-link"><i class="fa fa-phone"></i>541 123 148</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="footer-container layout-container" id="subfooter">
+            <div class="subfooter-copy">&copy; 2024 Střední škola informatiky, poštovnictví a finančnictví Brno</div>
+            <div class="subfooter-signature">Designed by <a href="https://pgersl.xyz" target="_blank">Petr Geršl</a></div>
+        </div>
+    </footer>
+</body>
+</html>
