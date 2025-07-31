@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/info/co-je-karierove-poradenstvi/</loc>
+  </url><url>
+    <loc>http://localhost:1313/info/</loc>
+  </url><url>
+    <loc>http://localhost:1313/info/pro-rodice/</loc>
+  </url><url>
+    <loc>http://localhost:1313/info/pro-ucitele/</loc>
+  </url><url>
+    <loc>http://localhost:1313/info/pro-zaky/</loc>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+  </url><url>
+    <loc>http://localhost:1313/materialy/</loc>
+  </url><url>
+    <loc>http://localhost:1313/o-mne/</loc>
+  </url><url>
+    <loc>http://localhost:1313/rozcestnik/</loc>
+  </url><url>
+    <loc>http://localhost:1313/materialy/sebepozn%C3%A1n%C3%AD/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+  </url>
+</urlset>

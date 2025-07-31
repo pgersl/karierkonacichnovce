@@ -1,0 +1,58 @@
+.page-card {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: nowrap;
+    width: 100%;
+    gap: 4rem;
+    padding: 2rem;
+    box-shadow: 5px 5px 10px var(--shadow-clr);
+    border-radius: 2rem;
+    text-decoration: none;
+    
+  --s: 200px; /* control the size*/
+  --c1: #fafcfa;
+  --c2: var(--bg-clr1);
+  --c3: var(--bg-clr1);
+  
+  --b: calc(var(--s)/2.67); /* control the thickness of the wavy line */
+  
+  --_r: calc(1.28*var(--s) + var(--b)/2) at left 50%;
+  --_f: calc(100% - var(--b)),var(--c1) calc(101% - var(--b)) 100%,#0000 101%;
+  --g0: calc(-.8*var(--s)),var(--c2) var(--_f);
+  --g1: calc(-.8*var(--s)),var(--c3) var(--_f);
+  --_s: calc(1.5*var(--s) + var(--b));
+  background: 
+    radial-gradient(var(--_r) bottom var(--g0)) calc(2*var(--s)) calc(-1*var(--_s)),
+    radial-gradient(var(--_r) bottom var(--g1)) calc(-1*var(--s)) calc(var(--_s)/-2),
+    radial-gradient(var(--_r) top    var(--g1)) 0 var(--_s),
+    radial-gradient(var(--_r) top    var(--g0)) var(--s) calc(var(--_s)/ 2),
+    linear-gradient(var(--c2) 50%,var(--c3) 0);
+  background-size: calc(4*var(--s)) var(--_s);
+}
+.page-card:hover {
+    color: inherit;
+    outline: 1px solid var(--secondary-clr);
+}
+.page-card-title {
+    color: var(--secondary-clr);
+}
+.page-card-image {
+    width: min(100%, 200px);
+}
+.page-card-image {
+    width: min(100%, 200px);
+    height: auto;
+}
+
+@media (max-width: 600px) {
+    .page-card {
+        flex-direction: column;
+        width: fit-content;
+        margin-inline: auto;
+    }
+    .page-card-image {
+        max-width: 400px;
+    }
+}

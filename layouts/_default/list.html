@@ -1,0 +1,32 @@
+{{define "styles"}}<link rel="stylesheet" href="/css/list.css">{{end}}
+
+{{define "main"}}
+    {{partial "title.html" .}}
+    <section class="layout-element" id="content">
+        <div class="layout-container">
+            {{.Content}}
+        </div>
+    </section>
+    <section class="layout-element" id="list">
+        <div class="layout-container">
+            {{range .Pages}}
+                <a href="{{.RelPermalink}}" class="page-card">
+                    <div class="page-card-title">
+                        <h1>{{.Title}}</h1>
+                    </div>
+                    <div class="page-card-info">
+                        <strong>Dozvíte se:</strong>
+                        <ul>
+                            {{range .Params.info}}
+                                <li>{{.}}</li>
+                            {{end}}
+                        </ul>
+                    </div>
+                    <div class="page-card-image">
+                        <img src="{{.Params.titleImage}}" alt="{{.Title}}">
+                    </div>
+                </a>
+            {{end}}
+        </div>
+    </section>
+{{end}}

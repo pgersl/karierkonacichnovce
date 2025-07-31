@@ -3,22 +3,59 @@ title: Co je kariérové poradenství?
 layout: single
 ---
 
-Kariérové poradenství definuje každý trochu jinak.
+> Kariérové poradenství je proces podpory jednotlivce při hledání jeho profesního a životního směřování. Pomáhá lidem lépe poznat sami sebe, zorientovat se ve světě práce a vzdělávání, a rozhodovat se tak, aby jejich volby byly v souladu s jejich hodnotami, schopnostmi a životními podmínkami.
 
-{{< quote text="Kariérové ​​poradenství je proces, který zahrnuje pomoc lidem při výběru, změně nebo přizpůsobení jejich kariéry, což je klíčové pro jejich osobní růst a spokojenost." author="Donald Super" >}}
+Poradce není ten, kdo dává hotové odpovědi. Je to průvodce, který pomáhá klást správné otázky, objevovat možnosti a podporuje klienta v samostatném rozhodování.
 
-{{< quote text="Kariérové ​​poradenství zahrnuje pomoc jedincům při jejich rozvoji a rozhodování v oblasti profesního života, což zahrnuje sebepoznání, porozumění pracovním příležitostem a vytváření strategií k dosažení kariérních cílů." author="Edgar Schein" >}}
+Kariérové poradenství se uplatňuje:
+- při výběru školy nebo oboru,
+- při hledání práce nebo změně zaměstnání,
+- při plánování dalšího vzdělávání,
+- při slaďování osobního a pracovního života,
+- při hledání rovnováhy mezi různými životními rolemi.
 
-## Já a kariérové poradenství
+# Historie kariérového poradenství
+## Počátky – průmyslová revoluce
+Kariérové poradenství vzniklo na přelomu 19. a 20. století jako reakce na změny ve společnosti. S příchodem průmyslové revoluce se lidé začali stěhovat do měst, specializovat se na konkrétní činnosti a potřebovali pomoc s orientací na novém trhu práce.
 
-Pro mě je kariérové poradenství pomoc při převzetí života do vlastních rukou. Slovo *poradenství* často nahrazuju slovem *provázení*, protože mnohem lépe vystihuje podstatu procesu.
+Za zakladatele oboru je považován **Frank Parsons**, který v roce 1908 představil Trait and Factor Theory – teorii vlastností a faktorů. Poradce měl za úkol:
+1. Zmapovat schopnosti a předpoklady klienta.
+2. Zjistit požadavky trhu práce.
+3. Najít shodu mezi oběma oblastmi.
 
-Je to o tom, aby sis uvědomil své silné stránky, zájmy dovednosti, svůj skillset, a jak to všechno můžeš využít při výběru vysoké školy, povolání nebo jen náplně volného času. Kariérový poradce je potom člověk, který ti s tím pomůže. Kromě toho ti může asistovat při psaní životopisu nebo budováním portfolia.
+## 50. – 60. léta – testování a typologie
+Období tzv. „zlaté éry testování“. Rozvíjí se psychometrické metody, vznikají typologie osobnosti a pracovního prostředí.Významný představitel: John L. Holland – autor modelu RIASEC (realistický, investigativní, umělecký, sociální, podnikavý, konformní typ).
 
-> Díky kariérovému poradenství se můžeš lépe rozhodnout, jakou cestou se vydat nejen abys byl úspěšný, ale hlavně spokojený se svými rozhodnutími.
+## 70. – 90. léta – důraz na proces a vývoj
+Objevují se teorie, které reflektují vývoj člověka v čase.Např. Donald Super a jeho Life-Span, Life-Space Theory – kariéra jako celoživotní proces, ovlivněný životními etapami a rolemi.
 
-## Pro koho je kariérové poradenství?
+Další přístupy:
+- **Linda Gottfredson** – teorie vymezení a kompromisu (vliv stereotypů na volbu povolání).
+- **Edward Bordin** – psychodynamický model (vliv raného dětství).
+- **Duane Brown** – teorie hodnot (vliv kulturních a osobních hodnot).
 
-Kariérko je tady pro ty, kteří možná přesně neví, kterou cestou se v životě vydat a chtějí na to přijít. Hrozně důležitá je právě vlastní iniciativa. Člověku, kterého ke kariérovému poradci pošle učitel nebo dokope rodič, se špatně pomáhá, pokud pomoc sám nevyhledá.
+## Konec 20. století – flexibilita a náhoda
+Svět se mění, přibývá nejistoty.John Krumboltz přichází s Happenstance Learning Theory – důraz na schopnost využívat neplánované příležitosti.
 
-> **Člověk musí chtít.** Jen tehdy to dává smysl.
+Social Cognitive Career Theory (Lent, Brown, Hackett) – důvěra ve vlastní schopnosti (self-efficacy) jako klíčový faktor kariérního rozvoje.
+
+## Kariérové poradenství dnes
+Moderní kariérové poradenství je holistické, flexibilní a respektující individualitu.Zohledňuje nejen profesní, ale i osobní život, hodnoty, motivace, vztahy a aktuální životní situaci klienta.
+
+Formy kariérového poradenství:
+- Individuální konzultace – osobní rozhovor s poradcem.
+- Skupinové aktivity – workshopy, semináře, kariérní kurzy.
+- Online poradenství – chat, videohovory, e-mail.
+- Sebezkušenostní techniky – práce s obrázky, metaforami, mentální mapy.
+- Testy a dotazníky – podpůrné nástroje, ne hlavní metoda.
+- Kariérové koučování – zaměřené na akci, cíle a motivaci.
+- Poradenství na školách – podpora žáků při volbě oboru a profesní orientaci.
+
+# Proč je kariérové poradenství důležité?
+V době rychlých změn, digitalizace a nejistoty na trhu práce je důležité, aby lidé:
+- znali sami sebe,
+- uměli se rozhodovat,
+- byli schopni se přizpůsobit změnám,
+- a uměli využívat příležitosti.
+
+> Kariérové poradenství pomáhá budovat kompetence pro život, nejen pro práci.

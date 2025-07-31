@@ -1,0 +1,10 @@
+{{define "styles"}}<link rel="stylesheet" href="/css/links.css">{{end}}
+
+{{define "main"}}
+    {{partial "title.html" .}}
+    <section class="layout-element" id="content">
+        <div class="layout-container">
+            {{.Content}}
+        </div>
+    </section>
+{{end}}

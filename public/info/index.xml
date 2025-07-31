@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Infoes on kariérko na čichnovce</title>
+    <link>http://localhost:1313/info/</link>
+    <description>Recent content in Infoes on kariérko na čichnovce</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/info/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Co je kariérové poradenství?</title>
+      <link>http://localhost:1313/info/co-je-karierove-poradenstvi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/info/co-je-karierove-poradenstvi/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Kariérové poradenství je proces podpory jednotlivce při hledání jeho profesního a životního směřování. Pomáhá lidem lépe poznat sami sebe, zorientovat se ve světě práce a vzdělávání, a rozhodovat se tak, aby jejich volby byly v souladu s jejich hodnotami, schopnostmi a životními podmínkami.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Poradce není ten, kdo dává hotové odpovědi. Je to průvodce, který pomáhá klást správné otázky, objevovat možnosti a podporuje klienta v samostatném rozhodování.&lt;/p&gt;&#xA;&lt;p&gt;Kariérové poradenství se uplatňuje:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Informace pro rodiče</title>
+      <link>http://localhost:1313/info/pro-rodice/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/info/pro-rodice/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;Drazí rodiče, nebojte se!&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;co-to-znamená-že-moje-dítě-chodí-ke-kariérovému-poradci&#34;&gt;Co to znamená, že moje dítě chodí ke kariérovému poradci?&lt;/h2&gt;&#xA;&lt;p&gt;V olba budoucí vzdělávací a profesní cesty je pro Vaše dítě důležitým životním rozhodnutím. Jako kariérová poradkyně nabízím žákům prostor pro zamyšlení, cílenou podporu, která jim pomáhá lépe poznat sebe sama, zorientovat se v možnostech dalšího studia či pracovního uplatnění a učinit informovaná rozhodnutí.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Co může kariérové poradenství Vašim dětem přinést&lt;/strong&gt;:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;podporu při sebepoznání – společně mapujeme jejich zájmy, silné stránky a osobní hodnoty,&lt;/li&gt;&#xA;&lt;li&gt;pomoc s orientací ve studijních i profesních možnostech,&lt;/li&gt;&#xA;&lt;li&gt;ujasnění si životních cílů a kroků k jejich dosažení.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Jak můžete Vaše dítě podpořit Vy&lt;/strong&gt;:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Informace pro učitele</title>
+      <link>http://localhost:1313/info/pro-ucitele/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/info/pro-ucitele/</guid>
+      <description>&lt;h1 id=&#34;jak-učitelé-přirozeně-podporují-kariérové-vzdělávání-ve-výuce&#34;&gt;Jak učitelé přirozeně podporují kariérové vzdělávání ve výuce&lt;/h1&gt;&#xA;&lt;p&gt;Na mnoha školách dnes učitelé přirozeně a velmi kvalitně podporují kariérové vzdělávání – často aniž by si to sami uvědomovali.&#xA;Je skvělé, že právě oni:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Propojují učivo s praxí, ukazují, kde se dá využít v reálném životě, a zmiňují konkrétní profese a obory.&lt;/li&gt;&#xA;&lt;li&gt;Zvou hosty z praxe, využívají videa, rozhovory a inspirativní příběhy.&lt;/li&gt;&#xA;&lt;li&gt;Podporují sebepoznání, dávají žákům prostor přemýšlet o tom, co je baví, co jim jde a co je motivuje.&lt;/li&gt;&#xA;&lt;li&gt;Rozvíjejí dovednosti pro život – komunikaci, spolupráci, plánování, řešení problémů.&lt;/li&gt;&#xA;&lt;li&gt;Učí práci s informacemi, vedou žáky k tomu, aby si uměli vyhledat a ověřit informace o školách, oborech a profesích.&lt;/li&gt;&#xA;&lt;li&gt;To vše jsou klíčové prvky kariérového vzdělávání – a učitelé je už dnes přirozeně začleňují do výuky.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Co však často chybí, je prostor pro reflexi.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Informace pro žáky</title>
+      <link>http://localhost:1313/info/pro-zaky/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/info/pro-zaky/</guid>
+      <description>&lt;h1 id=&#34;proč-mít-vlastního-kariérového-poradce&#34;&gt;Proč mít vlastního kariérového poradce?&lt;/h1&gt;&#xA;&lt;p&gt;Možná si říkáš: „Proč bych měl/a jít za kariérovým poradcem? Vždyť ještě ani nevím, co chci dělat.“&lt;/p&gt;&#xA;&lt;p&gt;A právě proto!&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Protože v tom nejsi sám/sama&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Rozhodování o škole, oboru nebo práci může být matoucí. Kariérový poradce je člověk, který tě tím vším provede – bez hodnocení, bez nátlaku, v klidu a s respektem k tomu, kdo jsi.&lt;/p&gt;&#xA;&lt;ol start=&#34;2&#34;&gt;&#xA;&lt;li&gt;&lt;strong&gt;Protože ti pomůže poznat sám sebe&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Co tě baví? Co ti jde? Co tě motivuje?&#xA;Poradce ti pomůže najít odpovědi na otázky, které si možná ještě ani nepoložil/a. A právě díky tomu se ti bude snáz rozhodovat o dalších krocích.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,3 +1,6 @@
 baseURL = 'https://karierko-na-cichnovce.cz/'
 languageCode = 'en-us'
 title = 'kariérko na čichnovce'
+
+[markup.goldmark.renderer]
+    unsafe = true
