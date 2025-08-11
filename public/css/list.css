@@ -1,3 +1,8 @@
+#list .layout-container {
+    display: flex;
+    flex-direction: column;
+    gap: 3rem;
+}
 .page-card {
     display: flex;
     flex-direction: row;
@@ -49,7 +54,7 @@
 @media (max-width: 600px) {
     .page-card {
         flex-direction: column;
-        width: fit-content;
+        min-width: fit-content;
         margin-inline: auto;
     }
     .page-card-image {

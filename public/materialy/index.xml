@@ -8,11 +8,32 @@
     <language>en-us</language>
     <atom:link href="http://localhost:1313/materialy/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Sebepoznání</title>
-      <link>http://localhost:1313/materialy/sebepozn%C3%A1n%C3%AD/</link>
+      <title>Dovednosti pro řízení kariéry (CMS)</title>
+      <link>http://localhost:1313/materialy/cms/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/materialy/sebepozn%C3%A1n%C3%AD/</guid>
-      <description>&lt;h1 id=&#34;úvod&#34;&gt;Úvod&lt;/h1&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Kdo zná tvůj život nejlíp? &lt;strong&gt;Ty sám.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/media/imgs/materialy/sebepoznani/main.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Možná ještě přesně nevíš, čím chceš být. Možná máš spoustu nápadů. A možná Tě to celé trochu děsí. To je úplně v pořádku.&lt;/p&gt;&#xA;&lt;p&gt;My – kariéroví průvodci – tu nejsme proto, abychom Ti říkali, co máš dělat. Jsme tu, abychom Ti pomohli najít odpovědi, které už máš někde v sobě. Pomůžeme Ti zorientovat se v tom, co tě baví, co Ti jde, jaké máš možnosti a jak se rozhodovat, tak, aby to dávalo smysl Tobě.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/materialy/cms/</guid>
+      <description>&lt;h1 id=&#34;úvod&#34;&gt;Úvod&lt;/h1&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Kdo zná tvůj život nejlíp? &lt;strong&gt;Ty sám.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/media/imgs/materialy/cms/main.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Možná ještě přesně nevíš, čím chceš být. Možná máš spoustu nápadů. A možná Tě to celé trochu děsí. To je úplně v pořádku.&lt;/p&gt;&#xA;&lt;p&gt;My – kariéroví průvodci – tu nejsme proto, abychom Ti říkali, co máš dělat. Jsme tu, abychom Ti pomohli najít odpovědi, které už máš někde v sobě. Pomůžeme Ti zorientovat se v tom, co tě baví, co Ti jde, jaké máš možnosti a jak se rozhodovat, tak, aby to dávalo smysl Tobě.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Reflexe</title>
+      <link>http://localhost:1313/materialy/reflexe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/materialy/reflexe/</guid>
+      <description>&lt;h1 id=&#34;úvod&#34;&gt;Úvod&lt;/h1&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;Zastav se. Zamysli se. A posuň se dál.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Když něco zažiješ – třeba si vyzkoušíš brigádu, vyplníš test silných stránek, nebo si popovídáš s někým z oboru – je to super. Ale teprve když se zastavíš a zamyslíš, co ti to dalo, začne to mít opravdový smysl.&#xA;Tomu se říká reflexe. Je to chvíle, kdy si položíš otázky jako:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Co jsem se právě naučil/a?&lt;/li&gt;&#xA;&lt;li&gt;Co mi to ukázalo o mně?&lt;/li&gt;&#xA;&lt;li&gt;Co mi to říká o tom, co chci (nebo nechci) dělat dál?&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Reflexe ti pomáhá pochopit souvislosti, získat jistotu v rozhodování a posouvat se dál. Bez ní by všechny aktivity byly jen jednorázové zážitky. S ní se z nich stávají stavební kameny tvé cesty.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Jak si vytvořit CV?</title>
+      <link>http://localhost:1313/materialy/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/materialy/cv/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;CV je dokument, který slouží jako osobní prezentační materiál&lt;/strong&gt; – shrnuje vaše dosavadní vzdělání, praxi, schopnosti a dovednosti. &lt;strong&gt;Cílem je zaujmout&lt;/strong&gt; příjemce natolik, aby vás chtěl blíže poznat a pozval vás na osobní pohovor. &lt;strong&gt;Odlište se od ostatních.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/media/imgs/materialy/cv/main.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;co-nesmí-v-cv-chybět&#34;&gt;Co nesmí v CV chybět&lt;/h1&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Struktura CV je vlastně celkem jednoduchá, ale je důležitá, aby v ní nebyly žádné zbytečnosti a aby byla upravená přesně na pozici, na kterou ce hlásíš.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Jak na vlastní portfolio?</title>
+      <link>http://localhost:1313/materialy/portfolio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/materialy/portfolio/</guid>
+      <description>&lt;h1 id=&#34;úvod&#34;&gt;Úvod&lt;/h1&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Portfolio je tvoje osobní složka (digitální nebo papírová), kam si ukládáš vše, co o tobě něco vypovídá – co umíš, co tě baví, co jsi zažil/a, co jsi dokázal/a. Je to takový tvůj příběh v důkazech.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/media/imgs/materialy/portfolio/main.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;proč-si-vést-vlastní-portfolio&#34;&gt;Proč si vést vlastní portfolio&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Pomůže ti &lt;strong&gt;poznat sám/sama sebe&lt;/strong&gt; – co ti jde, co tě baví, co chceš v životě dělat.&lt;/li&gt;&#xA;&lt;li&gt;Můžeš ho využít při &lt;strong&gt;výběru školy, oboru nebo práce&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Bude se ti hodit při &lt;strong&gt;psaní životopisu, motivačního dopisu nebo přípravě na pohovor&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Uvidíš, jak se &lt;strong&gt;postupně rozvíjíš&lt;/strong&gt; – a to je skvělý pocit!&lt;/li&gt;&#xA;&lt;li&gt;Můžeš ho ukázat rodičům, učitelům nebo budoucím zaměstnavatelům.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;co-všechno-můžeš-do-portfolia-zařadit&#34;&gt;Co všechno můžeš do portfolia zařadit&lt;/h1&gt;&#xA;&lt;p&gt;Portfolio není jen o diplomech a certifikátech. Patří do něj všechno, co tě vystihuje. Inspiruj se těmito oblastmi:&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

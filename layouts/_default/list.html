@@ -2,11 +2,6 @@
 
 {{define "main"}}
     {{partial "title.html" .}}
-    <section class="layout-element" id="content">
-        <div class="layout-container">
-            {{.Content}}
-        </div>
-    </section>
     <section class="layout-element" id="list">
         <div class="layout-container">
             {{range .Pages}}

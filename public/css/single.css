@@ -25,18 +25,24 @@
     margin-block: 2rem;
 }
 .question-list ul li {
-    width: 120px;
-    height: 120px;
+    width: 12rem;
+    height: 12rem;
     text-align: center;
-    background-color: var(--secondary-clr);
     border-radius: 50%;
     display: flex;
     justify-content: center;
     align-items: center;
-    color: var(--bg-clr1);
     font-size: 1.5rem;
     font-weight: bold;
     transition: var(--transition);
     padding: 1rem;
     box-shadow: 5px 5px 10px var(--shadow-clr);
+}
+.question-list ul li:nth-of-type(2n) {
+    background-color: var(--primary-clr);
+    color: var(--text-clr);
+}
+.question-list ul li:nth-of-type(2n+1) {
+    background-color: var(--secondary-clr);
+    color: var(--bg-clr1);
 }

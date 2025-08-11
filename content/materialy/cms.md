@@ -1,15 +1,16 @@
 ---
-title: Sebepoznání
+title: Dovednosti pro řízení kariéry (CMS)
 layout: single
 
-titleImage: /media/imgs/materialy/sebepoznani/main.png
-info: ["V čem spočívá sebepoznání", "Proč je důležité znát sám sebe", "Jaké otázky si klást"]
+titleImage: /media/imgs/materialy/cms/main.png
+info: ["Co znamená CMS", "Proč je důležité znát sám sebe", "Jaké otázky si klást"]
+weight: 1
 ---
 # Úvod
 
 > Kdo zná tvůj život nejlíp? **Ty sám.**
 
-![](/media/imgs/materialy/sebepoznani/main.png)
+![](/media/imgs/materialy/cms/main.png)
 
 Možná ještě přesně nevíš, čím chceš být. Možná máš spoustu nápadů. A možná Tě to celé trochu děsí. To je úplně v pořádku.
 
@@ -26,7 +27,7 @@ Nejde o to mít všechno hned nalinkované. Jde o to vědět, jak hledat, ptát 
 
 > Chceš vědět, kam dál? **Začni u sebe.**
 
-![](/media/imgs/materialy/sebepoznani/1.png)
+![](/media/imgs/materialy/cms/1.png)
 
 Než začneš přemýšlet, jakou školu si vybrat, co studovat nebo čím se jednou živit, je dobré se na chvíli zastavit a podívat se dovnitř.
 
@@ -40,21 +41,19 @@ Ale pozor – není to něco, co zvládneš za jedno odpoledne. Sebepoznání je
 
 <div class="question-list">
 
-- Co rád dělám?
 - Co mě baví?
-- V čem jsem dobrý?
-- Co je mojí silnou stránkou?
-- Čeho si u druhých cením?
-- Čeho si u sebe cením?
-- Na koho se mohu spolehnout?
-- Co nebo kdo mi dodává energii?
-- Co bych chtěl změnit?
-- Co už dobře umím?
-- Co mám na sobě a na druhých rád?
-- Co potřebuji jinak?
-- Kdo mi fandí, drží pěsti?
-- Kdo jsou důležití lidé v mém životě?
-- Jaké je mé největší přání?
+- Co mi jde ve škole?
+- Co mi jde mimo školu?
+- Co mi jde rychleji než ostatním?
+- Jaké knihy mě baví?
+- Co dělám nejraději venku?
+- Co sleduji na PC?
+- Jak nejraději odpočívám?
+- Co sleduji v TV?
+- Jaké mám rád aplikace?
+- Co se mi v poslední době podařilo?
+- U Jaké činnosti mi utíká čas?
+- Co mi dobíjí energii?
 
 </div>
 
@@ -62,7 +61,7 @@ Ale pozor – není to něco, co zvládneš za jedno odpoledne. Sebepoznání je
 
 > Poznej svět kolem sebe – **a najdi v něm svoje místo.**
 
-![](/media/imgs/materialy/sebepoznani/2.png)
+![](/media/imgs/materialy/cms/2.png)
 
 Sebepoznání je důležité, ale nestačí. Aby ses mohl/a dobře rozhodnout o své budoucnosti, potřebuješ taky poznat svět kolem sebe – co všechno existuje, jaké máš možnosti a co se právě teď děje ve světě práce a vzdělávání.
 
@@ -76,7 +75,7 @@ Tohle všechno patří do oblasti informací. A co konkrétně to znamená?
 
 > Mám informace. **Co s nimi dál?**
 
-![](/media/imgs/materialy/sebepoznani/3.png)
+![](/media/imgs/materialy/cms/3.png)
 
 Když už víš něco o sobě (co tě baví, co ti jde, co chceš) a taky o světě kolem (jaké máš možnosti, co se děje na trhu práce nebo ve školách), je čas udělat další krok: začít plánovat a rozhodovat se.
 
@@ -94,7 +93,7 @@ To neznamená, že musíš mít hned celý život nalinkovaný. Ale je fajn mít
 
 > **Ukaž, kdo jsi – a neboj se propojit s ostatními.**
 
-![](/media/imgs/materialy/sebepoznani/4.png)
+![](/media/imgs/materialy/cms/4.png)
 
 Můžeš být šikovný/á, mít skvělé nápady a spoustu dovedností – ale pokud o tobě nikdo neví, je těžké najít příležitosti, které si zasloužíš.
 

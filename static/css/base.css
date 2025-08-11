@@ -138,37 +138,32 @@ blockquote cite {
 .primary-button, .secondary-button {
     font-weight: bold;
     text-decoration: none;
-    padding: .5em 1em;
+    padding: .6em 1.2em;
     border-radius: .5em;
     transition: var(--transition);
     white-space: nowrap;
     line-height: var(--font-size);
     width: fit-content;
     display: block;
-    border-width: 2px;
-    border-style: solid;
+    border: none;
 }
 .primary-button {
     background-color: var(--primary-clr);
     color: var(--text-clr);
-    border-color: var(--primary-clr);
 }
 .secondary-button {
-    background-color: var(--bg-clr1);
+    background-color: var(--secondary-clr-light2);
     color: var(--secondary-clr);
-    border-color: var(--secondary-clr);
 }
 section .secondary-button, section .primary-button {
     margin-top: 2em;
 }
 .primary-button:hover {
-    background-color: var(--secondary-clr-light);
-    color: var(--bg-clr1);
-    border-color: var(--secondary-clr-light);
+    scale: 1.1;
+    color: var(--text-clr);
 }
 .secondary-button:hover {
-    background-color: var(--secondary-clr);
-    color: var(--bg-clr1);
+    scale: 1.1;
 }
 .primary-button:active, .secondary-button:active {
     background-color: var(--secondary-clr-dark);
