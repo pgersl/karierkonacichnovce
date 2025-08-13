@@ -32,6 +32,18 @@ blockquote:nth-of-type(2) {
     width: auto;
     margin-bottom: 2rem;
 }
+.book-cover {
+    display: block;
+    text-align: center;
+    font-weight: bold;
+    max-width: min-content;
+    margin-bottom: 1.5rem;
+}
+.book-cover img {
+    height: 300px;
+    width: auto;
+    margin-bottom: .5rem;
+}
 
 .link-row {
     display: flex;

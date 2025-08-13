@@ -299,3 +299,61 @@ img="/media/imgs/rozcestnik/budaktivni.png"
 >}}
 
 </div>
+
+# Literatura
+
+> Knížky nemusí být jen epickými příběhy z minulosti nebo sladké příběhy z ndešní doby. Najděte si chvíli času a poznejte sami sebe lépe skrze faktické knihy. Často obsahují nejen zajímavé myšlenky, ale také praktické rady.
+
+<div class="link-row">
+
+{{< book-cover
+img="https://www.obalkyknih.cz/file/cover/2782362/preview510"
+title="Čtyři tisíce týdnů"
+>}}
+
+{{< book-cover
+img="https://www.obalkyknih.cz/file/cover/3096021/preview510"
+title="Budoucnost nepráce"
+>}}
+
+{{< book-cover
+img="https://www.obalkyknih.cz/file/cover/2359705/preview510"
+title="Designérem vlastního života"
+>}}
+
+{{< book-cover
+img="https://www.obalkyknih.cz/file/cover/2577483/preview510"
+title="Malé kroky s velkým účinkem"
+>}}
+
+{{< book-cover
+img="https://www.obalkyknih.cz/file/cover/2983248/preview510"
+title="Proč mi tohle nikdo neřekl dřív?"
+>}}
+
+{{< book-cover
+img="https://www.obalkyknih.cz/file/cover/3158276/preview510"
+title="Skrytý potenciál"
+>}}
+
+{{< book-cover
+img="https://www.obalkyknih.cz/file/cover/719167/preview510"
+title="Myšlenkové mapy"
+>}}
+
+{{< book-cover
+img="https://www.obalkyknih.cz/file/cover/2312422/preview510"
+title="No Future"
+>}}
+
+{{< book-cover
+img="https://www.obalkyknih.cz/file/cover/3021555/preview510"
+title="Future on!"
+>}}
+
+{{< book-cover
+img="https://www.obalkyknih.cz/file/cover/2961892/preview510"
+title="Psychologie pro každý den"
+>}}
+
+</div>
