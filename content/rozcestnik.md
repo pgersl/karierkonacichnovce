@@ -224,7 +224,7 @@ img="/media/imgs/rozcestnik/krjcmm.png"
 
 # Portfolio
 
-> Ukaž, co umíš! Digitální portfolio ti pomůže přehledně zaznamenat tvé projekty, dovednosti, zkušenosti i úspěchy. Skvělý nástroj, když se hlásíš na školu, stáž, brigádu nebo pracovní místo. Můžeš si dokonce vytvořit i vlástní web!
+> Ukaž, co umíš! Digitální portfolio ti pomůže přehledně zaznamenat tvé projekty, dovednosti, zkušenosti i úspěchy. Skvělý nástroj, když se hlásíš na školu, stáž, brigádu nebo pracovní místo. Můžeš si dokonce vytvořit i vlastní web!
 
 <div class="link-row">
 
@@ -302,7 +302,7 @@ img="/media/imgs/rozcestnik/budaktivni.png"
 
 # Literatura
 
-> Knížky nemusí být jen epickými příběhy z minulosti nebo sladké příběhy z ndešní doby. Najděte si chvíli času a poznejte sami sebe lépe skrze faktické knihy. Často obsahují nejen zajímavé myšlenky, ale také praktické rady.
+> Knížky nemusí být jen epickými příběhy z minulosti nebo sladké příběhy z dnešní doby. Najděte si chvíli času a poznejte sami sebe lépe skrze faktické knihy. Často obsahují nejen zajímavé myšlenky, ale také praktické rady.
 
 <div class="link-row">
 
