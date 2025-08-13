@@ -22,7 +22,11 @@ weight: 4
 
 # Co všechno můžeš do portfolia zařadit
 
-Portfolio není jen o diplomech a certifikátech. Patří do něj všechno, co tě vystihuje. Inspiruj se těmito oblastmi:
+> Portfolio není jen o diplomech a certifikátech. Patří do něj všechno, co tě vystihuje.
+
+![](/media/imgs/materialy/portfolio/1.png)
+
+Inspiruj se těmito oblastmi:
 
 1. **Já a moje cíle**
     - Tvoje sny, plány a akční kroky, jak jich dosáhnout.
@@ -44,6 +48,8 @@ Portfolio není jen o diplomech a certifikátech. Patří do něj všechno, co t
     - Tvoje vysněná profese a co pro ni potřebuješ.
 
 # Jak si portfolio založit a udržovat?
+
+![](/media/imgs/materialy/portfolio/2.png)
 
 1. **Založ si složku**
     - Může být papírová (šanon) nebo digitální (např. Google Disk, Start iD, OneNote…).

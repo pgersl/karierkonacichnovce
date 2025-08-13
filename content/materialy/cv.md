@@ -50,6 +50,10 @@ Další certifikáty, ocenění, projekty nebo jiné silné stránky, které jsi
 
 # Několik tipů
 
+> CV nefunguje tak, že se jednou vytvoří a používá se navždy. Pro každou příležitost je potřeba ho upravovat a vylepšovat.
+
+![](/media/imgs/materialy/cv/2.png)
+
 - **CV přizpůsobuj každé pozici** – ne na každou pozici se hodí zmiňovat tytéž informace a personalista pozná, jeslti vždy CV připravíš na míru nebo jen zběsile rozesíláš jedno.
 - **Piš stručně a výstižně**, celé CV by se mělo vejít na 1 až 2 strany. Do CV nemusíš uvádět každou jednu věc, s nimi se můžeš vyšvihnout na pohovoru. Vybírej jen to nejpodstatnější.
 - **Vše, co o sobě napíšeš, musíš umět nějak podložit.** Připravi si konkrétní příklady, na kterých ukážeš svoje dovednosti.

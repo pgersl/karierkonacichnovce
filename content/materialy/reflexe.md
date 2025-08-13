@@ -10,6 +10,8 @@ weight: 2
 
 > **Zastav se. Zamysli se. A posuň se dál.**
 
+![](/media/imgs/materialy/reflexe/main.png)
+
 Když něco zažiješ – třeba si vyzkoušíš brigádu, vyplníš test silných stránek, nebo si popovídáš s někým z oboru – je to super. Ale teprve když se zastavíš a zamyslíš, co ti to dalo, začne to mít opravdový smysl.
 Tomu se říká reflexe. Je to chvíle, kdy si položíš otázky jako:
 

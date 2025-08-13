@@ -1,0 +1,28 @@
+.section-row {
+    align-items: center;
+}
+section img {
+    max-width: 350px;
+    display: block;
+    margin: 0 auto;
+    border-radius: 100%;
+    border: 20px solid;
+}
+#quote {
+    text-align: center;
+    font-size: 3rem;
+    font-weight: bold;
+    line-height: 3rem;
+    background-color: var(--secondary-clr-light2);
+    color: var(--secondary-clr);
+}
+#person img, #children img {
+    border-color: var(--bg-clr2);
+}
+#leisure img {
+    border-color: var(--bg-clr1);
+}
+#space p, #leisure p, #children p {
+    font-size: 1.5rem;
+    line-height: 1.5rem;
+}

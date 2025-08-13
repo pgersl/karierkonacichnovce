@@ -5,26 +5,25 @@ layout: single
 # Jak učitelé přirozeně podporují kariérové vzdělávání ve výuce
 
 Na mnoha školách dnes učitelé přirozeně a velmi kvalitně podporují kariérové vzdělávání – často aniž by si to sami uvědomovali.
-Je skvělé, že právě oni:
+Je skvělé, že právě vy:
 
-- Propojují učivo s praxí, ukazují, kde se dá využít v reálném životě, a zmiňují konkrétní profese a obory.
-- Zvou hosty z praxe, využívají videa, rozhovory a inspirativní příběhy.
-- Podporují sebepoznání, dávají žákům prostor přemýšlet o tom, co je baví, co jim jde a co je motivuje.
-- Rozvíjejí dovednosti pro život – komunikaci, spolupráci, plánování, řešení problémů.
-- Učí práci s informacemi, vedou žáky k tomu, aby si uměli vyhledat a ověřit informace o školách, oborech a profesích.
-- To vše jsou klíčové prvky kariérového vzdělávání – a učitelé je už dnes přirozeně začleňují do výuky.
+- Propojujete učivo s praxí, ukazují, kde se dá využít v reálném životě, a zmiňují konkrétní profese a obory.
+- Zvete hosty z praxe, využíváte videa, rozhovory a inspirativní příběhy.
+- Podporujete sebepoznání, dáváte žákům prostor přemýšlet o tom, co je baví, co jim jde a co je motivuje.
+- Rozvíjíte dovednosti pro život – komunikaci, spolupráci, plánování, řešení problémů.
+- Učíte práci s informacemi, vedete žáky k tomu, aby si uměli vyhledat a ověřit informace o školách, oborech a profesích.
+- To vše jsou klíčové prvky kariérového vzdělávání – a dnes už je zcela nezbytné začleňovat je do výuky.
 
-> Co však často chybí, je prostor pro reflexi.
+> Co však často chybí, je prostor pro **reflexi**.
 
 Bez reflexe zůstávají i ty nejlepší aktivity jen jednorázovým zážitkem.
 Teprve když se žáci zastaví a zamyslí se nad tím, co jim daná zkušenost přinesla, co si z ní odnášejí a jak to souvisí s jejich budoucností, začíná mít vše hlubší smysl.
 
-Stačí málo – jednoduchá otázka na konci hodiny, krátké zamyšlení po projektu nebo společná diskuze:
-„Co jsem se naučil/a? Co mi to ukázalo o mně? Jak to můžu využít dál?“
+Stačí málo – jednoduchá otázka na konci hodiny, krátké zamyšlení po projektu nebo společná diskuze: „Co jsem se naučil/a? Co mi to ukázalo o mně? Jak to můžu využít dál?“
 
 Díky reflexi se z běžné výuky stává prostor, kde žáci nejen získávají znalosti, ale i objevují sami sebe a svou cestu.
 
-**Reflexní otázky pro žáky:**
+**Reflektivní otázky pro žáky:**
 - O učení a obsahu
     - *Co jsem se dnes naučil/a, co mě překvapilo?*
     - *Co mi šlo nejlépe? A proč?*
