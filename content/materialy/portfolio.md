@@ -3,7 +3,7 @@ title: Jak na vlastní portfolio?
 layout: single
 
 titleImage: /media/imgs/materialy/portfolio/main.png
-info: ["Co patří do portfoliaV", "V jaké formě vytvářet porfolio", "Proč si vytvořit vlastní portfolio"]
+info: ["Co patří do portfolia", "V jaké formě vytvářet porfolio", "Proč si vytvořit vlastní portfolio"]
 weight: 4
 ---
 # Úvod

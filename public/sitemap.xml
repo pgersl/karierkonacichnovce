@@ -2,6 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/materialy/cms/</loc>
+  </url><url>
+    <loc>http://localhost:1313/materialy/reflexe/</loc>
+  </url><url>
+    <loc>http://localhost:1313/materialy/cv/</loc>
+  </url><url>
+    <loc>http://localhost:1313/materialy/portfolio/</loc>
+  </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/info/co-je-karierove-poradenstvi/</loc>
@@ -15,8 +23,6 @@
     <loc>http://localhost:1313/info/pro-zaky/</loc>
   </url><url>
     <loc>http://localhost:1313/</loc>
-  </url><url>
-    <loc>http://localhost:1313/materialy/sebepozn%C3%A1n%C3%AD/</loc>
   </url><url>
     <loc>http://localhost:1313/materialy/</loc>
   </url><url>
